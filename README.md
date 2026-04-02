@@ -41,11 +41,11 @@ I started with Java and later moved into web development — now I enjoy combini
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lokesh-0987&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lokesh-0987&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Lokesh-0987&theme=dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=Lokesh-0987&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-0987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-0987&layout=compact&theme=tokyonight)
 
 ---
 
